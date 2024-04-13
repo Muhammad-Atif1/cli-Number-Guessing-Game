@@ -1,9 +1,10 @@
 {
-  "name": "@muhammad-atif1/cli-number-guessing-game-play-and-enjoy",
-  "version": "1.0.0",
+  "name": "cli-number-guessing-game-play-and-enjoy",
+  "version": "1.0.3",
   "description": "This is cli-based number guessing Game",
   "main": "index.js",
   "type": "module",
+  "bin": "index.js",
   "publishConfig": {
     "access": "public"
   },
